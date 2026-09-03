@@ -1,2 +1,2 @@
-# Relat-rio-Gerencial-de-Vendas
+# Relatário-Gerencial-de-Vendas
 Projeto Bootcamp para formação em Power Bi
